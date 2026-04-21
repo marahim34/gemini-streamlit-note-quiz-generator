@@ -1,0 +1,6 @@
+.env
+.venv
+gemini_streamlit
+__pycache__
+audio_generating.py
+image_processing.py
